@@ -46,6 +46,13 @@ The logs confirmed:
 - Security Event Validation
 - Forensic Investigation Basics
 
+- ## Detection Output
+
+The screenshot below shows successful detection of simulated malicious file staging and permission changes within the /tmp directory using custom audit rules.
+
+![tmp activity detection](tmp-activity-detection.png)
+
+
 ---
 
 Created as part of my cybersecurity portfolio.
