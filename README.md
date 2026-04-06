@@ -1,4 +1,4 @@
-# Linux Host-Based Intrusion Detection (auditd)
+# Linux Host-Based Intrusion Detection
 
 ## Overview
 This project demonstrates how I configured Linux auditd as a host-based intrusion detection mechanism on Ubuntu Server 24.04. Custom audit rules were developed to monitor sensitive files and high-risk directories. Simulated malicious activity was performed to validate detection capability and log accuracy.
